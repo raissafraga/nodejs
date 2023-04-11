@@ -1,2 +1,2 @@
 # nodejs
-arendendo sobre Node
+aprendendo sobre Node
