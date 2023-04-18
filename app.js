@@ -5,6 +5,8 @@ let d=5;
 
 const meuModulo = require('./calculadora');
 
+
+
 meuModulo.multiplicacao(a,b); // imprime multiplicação no console
 
 meuModulo.divisao(c,d); // imprime Divisão no console
